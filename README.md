@@ -1,6 +1,6 @@
 ### Hi there, I'm Caroline 😊
 
-## I'm Junior web dev @becode since september 2020.
+## I'm Junior web dev @becode since september 2020
 
 - 🔭 I’m currently working on vuejs ( create my video games store ❤️ )
 - 🌱 I’m currently learning react, vue, node ...
