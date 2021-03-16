@@ -1,6 +1,6 @@
-## Hi there, I'm Caroline 😊
+### Hi there, I'm Caroline 😊
 
-### I'm Junior web dev @becode since september 2020.
+## I'm Junior web dev @becode since september 2020.
 
 - 🔭 I’m currently working on vuejs ( create my video games store ❤️ )
 - 🌱 I’m currently learning react, vue, node ...
@@ -8,7 +8,7 @@
 - 📫 How to reach me: try to find me hu hu.
 - ⚡ Fun fact: mmmhhh, let me think 🤔	
 
-### Some completed projects 👾
+## Some completed projects 👾
 
 * [Vue-games](https://peaceful-jennings-bc0dff.netlify.app/)
 * [Vue-stage](https://vibrant-brown-cfdb1f.netlify.app/#/)
