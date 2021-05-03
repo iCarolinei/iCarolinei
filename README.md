@@ -12,7 +12,6 @@
 * [Portfolio](https://brave-tesla-b79353.netlify.app/)
 * [Vue-gaming-store](https://mystifying-villani-19d962.netlify.app/#/)
 * [Vue-games](https://peaceful-jennings-bc0dff.netlify.app/)
-* [Vue-stage](https://vibrant-brown-cfdb1f.netlify.app/#/)
 * [React-mwenbwa](https://leaf-game.herokuapp.com/)
 * [Pomodoro](https://reverent-yalow-ca6469.netlify.app/)
 * [Npx-card](https://www.npmjs.com/package/spooknick)
